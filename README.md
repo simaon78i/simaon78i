@@ -20,9 +20,11 @@ Feel free to explore my repositories to see the projects I have worked on. Each 
 
 My ultimate goal is to contribute to advancements in technology by integrating my skills in computer science and physics. I am particularly interested in pursuing research that bridges these two fields, aiming to make significant contributions to both academia and industry.
 
+### my LinkedIn profile
+
+https://www.linkedin.com/in/shimon-ifrach-a022b5215/
+
 ---
 
-You can copy and paste this description into your GitHub profile. If you need any more adjustments or additions, just let me know!
 
-###my LinkedIn profile
-https://www.linkedin.com/in/shimon-ifrach-a022b5215/
+
