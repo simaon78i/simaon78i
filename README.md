@@ -28,10 +28,6 @@ My ultimate goal is to contribute to advancements in technology by integrating m
 
 ### my LinkedIn profile
 
-## Connect with me
-
-## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-ifrach-a022b5215/)
 
 ---
