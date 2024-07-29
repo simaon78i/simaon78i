@@ -28,7 +28,7 @@ My ultimate goal is to contribute to advancements in technology by integrating m
 
 ### my LinkedIn profile
 
-https://www.linkedin.com/in/shimon-ifrach-a022b5215/
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg)](https://www.linkedin.com/in/shimon-ifrach-a022b5215/)
 
 ---
 
