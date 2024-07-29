@@ -30,9 +30,9 @@ My ultimate goal is to contribute to advancements in technology by integrating m
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
-</a>
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-ifrach-a022b5215/)
 
 ---
 
