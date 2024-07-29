@@ -25,7 +25,8 @@ Feel free to explore my repositories to see the projects I have worked on. Each 
 ### Goals
 
 My ultimate goal is to contribute to advancements in technology by integrating my skills in computer science and physics. I am particularly interested in pursuing research that bridges these two fields, aiming to make significant contributions to both academia and industry.
-### contact me
+
+## contact me for any help or intrest in my projects
 
 ## my LinkedIn profile
 
