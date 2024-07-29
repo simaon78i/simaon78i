@@ -25,12 +25,20 @@ Feel free to explore my repositories to see the projects I have worked on. Each 
 ### Goals
 
 My ultimate goal is to contribute to advancements in technology by integrating my skills in computer science and physics. I am particularly interested in pursuing research that bridges these two fields, aiming to make significant contributions to both academia and industry.
+### contact me
 
-### my LinkedIn profile
+## my LinkedIn profile
 
 <a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+## mail
+
+<a href="mailto:simaon78ifrac@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Mailbox-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mailbox">
+</a>
+
 
 ---
 
