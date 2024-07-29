@@ -37,7 +37,7 @@ My ultimate goal is to contribute to advancements in technology by integrating m
 ## mail
 
 <a href="mailto:simaon78ifrac@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gbox-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail">
+  <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail">
 </a>
 
 
