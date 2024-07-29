@@ -1,9 +1,12 @@
-hi im Shimon Ifrach
+# Hello there! 👋
+
+Welcome to my GitHub profile.
+
 ---
 
 ## About Me
 
-I am a student of Computer Science and Physics with a strong passion for programming and working with complex, parameter-laden physical equations. I chose this combination of disciplines because of my keen interest in both software and hardware. I am eager to pursue a career that integrates both fields, with a strong desire to engage in research, particularly at the PhD level, that combines them.
+My name is Shimon Ifrach and I am a student of Computer Science and Physics with a strong passion for programming and working with complex, parameter-laden physical equations. I chose this combination of disciplines because of my keen interest in both software and hardware. I am eager to pursue a career that integrates both fields, with a strong desire to engage in research, particularly at the PhD level, that combines them.
 
 I am proficient in programming languages such as Python, C, C++, and Java. My GitHub repository showcases a variety of projects in all of these languages, demonstrating my versatility and depth of knowledge in software development. 
 
