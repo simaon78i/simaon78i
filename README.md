@@ -23,3 +23,6 @@ My ultimate goal is to contribute to advancements in technology by integrating m
 ---
 
 You can copy and paste this description into your GitHub profile. If you need any more adjustments or additions, just let me know!
+
+###my LinkedIn profile
+https://www.linkedin.com/in/shimon-ifrach-a022b5215/
