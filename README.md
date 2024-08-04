@@ -1,6 +1,6 @@
 # Your Project Title
 
-![Description of the image](https://github.com/simaon78i/simaon78i/blob/main/assets/resized_rectangle_image.jpg)
+![Description of the image](https://github.com/simaon78i/simaon78i/blob/main/assets/resized_quarter_height_image.jpg)
 
 # Hello there! 👋
 
