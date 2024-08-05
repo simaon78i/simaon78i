@@ -43,6 +43,8 @@ My ultimate goal is to contribute to advancements in technology by integrating m
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+---
+
 | <img src="https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical" alt="Top Languages" /> |
 |:---:|:---:|
 
