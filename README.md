@@ -28,7 +28,7 @@ I am currently pursuing my studies in Computer Science and Physics. My passion l
 
 Explore my [repositories](https://github.com/simaon78i?tab=repositories) to see the projects I've worked on. Below are some highlights:
 
-- **[Project Name](link-to-project)**: A brief description of the project and what it does.
+- **[PEPSE-virtual-reality](link-to-project)**: this project simmulate virtual reality project that recreates a Mario-like game world. This immersive environment includes vibrant landscapes, interactive objects, and dynamic elements that mimic the beloved Mario game universe. Players can explore this virtual world, interacting with various components such as trees, and fruits.
 - **[Another Project](link-to-project)**: Another short description highlighting key features or learnings.
 
 ### Goals
