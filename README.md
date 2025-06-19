@@ -1,3 +1,7 @@
+dge">
+  </a>
+
+---
 # 👋 Hello there!
 
 Welcome to my GitHub profile. I'm **Shimon Ifrach**, a passionate Computer Science student.  
@@ -38,16 +42,19 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Explore my [repositories](https://github.com/simaon78i?tab=repositories) to see more of what I’ve worked on!  
-Here are a few highlights:
-
-- 🎮 **[PEPSE-virtual-reality](https://github.com/simaon78i/PEPSE-virtual-reality)**  
-  A virtual reality simulation of a Mario-like world with interactive elements and vibrant visuals.
-
-- 🔗 **[Markov Chain](https://github.com/simaon78i/Markov-chain)**  
-  An NLP model based on Markov chains, implemented in generic C.
+<p align="center">
+  <a href="https://github.com/simaon78i/PEPSE-virtual-reality">
+    <img src="https://img.shields.io/badge/PEPSE--virtual--reality-3D_Game_Engine-blueviolet?style=for-the-badge&logo=unity&logoColor=white" alt="PEPSE VR"/>
+  </a>
+  <a href="https://github.com/simaon78i/Markov-chain">
+    <img src="https://img.shields.io/badge/Markov--Chain-NLP_in_C-blue?style=for-the-badge&logo=c&logoColor=white" alt="Markov Chain"/>
+  </a>
+  <a href="https://github.com/simaon78i/Image-Processing">
+    <img src="https://img.shields.io/badge/Image--Processing-Filters_and_Tools-green?style=for-the-badge&logo=python&logoColor=white" alt="Image Processing"/>
+  </a>
+</p>
 
 ---
 
@@ -75,6 +82,14 @@ I aim to integrate my skills in computer science to contribute to both academic 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&langs_count=15&theme=radical&hide=python,c,cpp,csharp,java,matlab,makefile,aspnet" alt="Top Frontend Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/simaon78i/simaon78i/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
