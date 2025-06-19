@@ -2,27 +2,29 @@ name: Generate Snake 🐍
 
 on:
   push:
-    branches: [main]
-  workflow_dispatch:
+    branches: [main]          # ריצה אוטומטית בכל push ל-main
+  workflow_dispatch:          # אפשרות להריץ ידנית מלשונית Actions
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"       # פעם ביום (חצות UTC)
 
 jobs:
   snake:
-    permissions:       # ← ❶ נותן ל-GITHUB_TOKEN הרשאת push
+    permissions:              # מאפשר ל-GITHUB_TOKEN לבצע push לענף output
       contents: write
     runs-on: ubuntu-latest
 
     steps:
+      # יוצר את קובץ ה-SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: simaon78i
           outputs: |
             github-contribution-grid-snake.svg
-        env:                  # ← ❷ מוסר טוקן גם ל-snk (ליתר ביטחון)
+        env:                   # מוסרים את הטוקן גם ל-snk (ליתר ביטחון)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake
+      # דוחף את ה-SVG לענף output
+      - name: Push snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
