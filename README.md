@@ -68,13 +68,13 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ### 🖥️ Top Backend Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&langs_count=15&theme=radical&hide=html,css,javascript,typescript" alt="Top Backend Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&langs_count=15&theme=radical&hide=html,css,javascript,typescript,react" alt="Top Backend Languages" />
 </p>
 
 ### 🎨 Top Frontend Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&langs_count=15&theme=radical&hide=python,c,cpp,java,csharp,matlab" alt="Top Frontend Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&langs_count=15&theme=radical&hide=python,c,cpp,csharp,java,matlab,makefile,aspnet" alt="Top Frontend Languages" />
 </p>
 
 ---
