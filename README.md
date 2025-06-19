@@ -18,9 +18,9 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 
 #### 🖥️ Backend
 
-| Python | C | C++ | Java | C# | SQL (PostgreSQL & Access) | MATLAB |
-|--------|---|-----|------|----|----------------------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/main/assets/Access-logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |
+| Python | C | C++ | Java | C# | PostgreSQL | Microsoft Access | MATLAB |
+|--------|---|-----|------|----|------------|-------------------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/main/assets/Access-logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |
 
 #### 🎨 Frontend
 
