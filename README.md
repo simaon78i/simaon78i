@@ -33,8 +33,12 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 ## ⚙️ Tools
 
 | Git | Linux | VS Code | Visual Studio |
-|-----|-------|---------|--------------|
+|-----|-------|---------|----------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> |
+
+| PyCharm | CLion | IntelliJ IDEA |
+|---------|-------|----------------|
+| <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40"/> |
 
 ---
 
@@ -80,6 +84,7 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
