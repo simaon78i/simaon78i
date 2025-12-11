@@ -22,19 +22,19 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 |--------|---|-----|------|----|------------|------------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/main/assets/Access-logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |
 
-#### 🎨 Frontend
+#### 🎨 Frontend & Mobile
 
-| HTML | CSS | JavaScript | TypeScript | React |
-|------|-----|------------|------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> |
+| HTML | CSS | JavaScript | TypeScript | React | Dart | Flutter |
+|------|-----|------------|------------|-------|------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/> |
 
 ---
 
 ## ⚙️ Tools
 
-| Git | Linux | VS Code | Visual Studio | PyCharm | CLion | IntelliJ IDEA |
-|-----|-------|---------|----------------|---------|-------|----------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40"/> |
+| Git | Linux | VS Code | Visual Studio | PyCharm | CLion | IntelliJ IDEA | Android Studio |
+|-----|-------|---------|----------------|---------|-------|---------------|----------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40"/> |
 
 ---
 
@@ -63,19 +63,25 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ## 📊 GitHub Stats
 
 ### 🔢 Overall Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical)
+
+</div>
 
 ### 🖥️ Top Backend Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=html,css,javascript,typescript,react" alt="Top Backend Languages"/>
-</p>
+<div align="center">
+
+![Top Backend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=html,css,javascript,typescript,react,dart)
+
+</div>
 
 ### 🎨 Top Frontend Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=c%2B%2B,c%23,asp.net,python,c,java,matlab,makefile" alt="Top Frontend Languages"/>
-</p>
+<div align="center">
+
+![Top Frontend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=c%2B%2B,c%23,asp.net,python,c,java,matlab,makefile)
+
+</div>
 
 ---
 
@@ -89,13 +95,11 @@ I aim to integrate my skills in computer science to contribute to both academic 
 
 ## 🤝 Get in Touch
 
-- 📧 **Email:**  
-  <a href="mailto:simaon78ifrac@gmail.com">
+- 📧 **Email:** <a href="mailto:simaon78ifrac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
-- 💼 **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
