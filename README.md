@@ -69,17 +69,10 @@ I aim to integrate my skills in computer science to contribute to both academic 
 
 </div>
 
-### 🖥️ Top Backend Languages
+### 🖥️ Top Languages
 <div align="center">
 
-![Top Backend Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=30&hide=html,css,javascript,typescript,dart,flutter,react,jupyter%20notebook,tex,shell&cache_bust=2024)
-
-</div>
-
-### 🎨 Top Frontend Languages
-<div align="center">
-
-![Top Frontend Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=30&hide=python,c,c%2B%2B,c%23,java,matlab,postgresql,tsql,makefile,cmake,tex,shell,jupyter%20notebook&cache_bust=2025)
+![Top  Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=30&cache_bust=2024)
 
 </div>
 
