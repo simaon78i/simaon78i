@@ -64,12 +64,23 @@ I aim to integrate my skills in computer science to contribute to both academic 
 
 ### 🔢 Overall Activity
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simaon78i&theme=radical" alt="GitHub Profile Details" />
+
+![Overall Activity](https://github-readme-stats-sigma-five.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&cache_bust=2024)
+
 </div>
 
-### 📈 Language Usage
+### 🖥️ Top Backend Languages
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simaon78i&theme=radical" alt="Repos per Language" />
+
+![Top Backend Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=10&hide=html,css,javascript,typescript,dart,flutter,react,jupyter%20notebook,tex,shell&cache_bust=2024)
+
+</div>
+
+### 🎨 Top Frontend Languages
+<div align="center">
+
+![Top Frontend Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=10&hide=python,c,c%2B%2B,c%23,java,matlab,postgresql,tsql,makefile,cmake&cache_bust=2024)
+
 </div>
 
 ---
@@ -87,3 +98,9 @@ I aim to integrate my skills in computer science to contribute to both academic 
 - 📧 **Email:** <a href="mailto:simaon78ifrac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+---
