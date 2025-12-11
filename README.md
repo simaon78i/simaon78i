@@ -63,25 +63,13 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ## 📊 GitHub Stats
 
 ### 🔢 Overall Activity
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=1)
 
 ### 🖥️ Top Backend Languages
-<div align="center">
-
-![Top Backend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=html,css,javascript,typescript,react,dart)
-
-</div>
+![Top Backend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=html,css,javascript,typescript,react,dart&v=1)
 
 ### 🎨 Top Frontend Languages
-<div align="center">
-
-![Top Frontend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=c%2B%2B,c%23,asp.net,python,c,java,matlab,makefile)
-
-</div>
+![Top Frontend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=c%2B%2B,c%23,asp.net,python,c,java,matlab,makefile&v=1)
 
 ---
 
