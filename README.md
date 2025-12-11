@@ -63,14 +63,19 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ## 📊 GitHub Stats
 
 ### 🔢 Overall Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=1)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ### 🖥️ Top Backend Languages
-![Top Backend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=html,css,javascript,typescript,react,dart&v=1)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=10&hide=html,css,javascript,typescript,dart,flutter,jupyter%20notebook,tex,shell" alt="Top Backend Languages" />
+</div>
 
 ### 🎨 Top Frontend Languages
-![Top Frontend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=15&hide=c%2B%2B,c%23,asp.net,python,c,java,matlab,makefile&v=1)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=10&hide=python,c,c%2B%2B,c%23,java,matlab,postgresql,tsql,makefile,cmake" alt="Top Frontend Languages" />
+</div>
 ---
 
 ## 🐍 Contribution Snake
