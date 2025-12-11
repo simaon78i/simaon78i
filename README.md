@@ -82,6 +82,7 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ![Top Frontend Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=pie&theme=radical&langs_count=10&hide=python,c,c%2B%2B,c%23,java,matlab,postgresql,tsql,makefile,cmake&cache_bust=2024)
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
