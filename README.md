@@ -12,6 +12,19 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 
 ---
 
+---
+
+## 🏛️ Architecture & Design Principles
+
+As an aspiring **Software Architect**, I believe that great software is built on solid foundations. I apply these principles in my projects:
+
+- **Clean Code & SOLID:** Writing readable, maintainable, and testable code.
+- **Design Patterns:** Implementing proven solutions like Singleton, Factory, and Observer where appropriate.
+- **System Design:** Focusing on scalability, efficient database schema design (PostgreSQL), and secure API integrations.
+- **Interdisciplinary Approach:** Leveraging mathematical models (like Markov Chains) to solve complex software engineering challenges.
+
+---
+
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages & Frameworks
