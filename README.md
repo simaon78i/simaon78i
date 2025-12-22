@@ -29,7 +29,7 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 #### ☁️ Cloud, AI & Integrations
 | Google Gemini AI | Stripe Payments | Cloudinary CDN | OAuth 2.0 | Neon Tech | Somee Hosting |
 |------------------|-----------------|----------------|-----------|-----------|---------------|
-| <img src="https://raw.githubusercontent.com/google-gemini/cookbook/main/images/gemini-logo.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cloudinary-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/74181643?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> |
+| <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40"/> | <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cloudinary-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/74181643?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> |
 
 ---
 
