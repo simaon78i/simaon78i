@@ -1,13 +1,13 @@
 # 👋 Hello there!
 
-Welcome to my GitHub profile. I'm **Shimon Ifrach**, a passionate Computer Science student and **FullStack Developer**.  
+Welcome to my GitHub profile. I'm **Shimon Ifrach**, a passionate Computer Science student and **FullStack Developer**.  
 Here, I combine my love for software and hardware, exploring complex problems and creating innovative solutions.
 
 ---
 
 ## 🧠 About Me
 
-I'm currently pursuing a degree in Computer Science at the Hebrew University, with a deep passion for programming and a strong commitment to becoming a software engineer or software architect.  
+I'm currently pursuing a degree in Computer Science at the Hebrew University, with a deep passion for programming and a strong commitment to becoming a software engineer or software architect.  
 I focus on bridging the gap between theory and practice, with an emphasis on **software architecture**, clean code design, and production-ready applications.
 
 ---
@@ -29,7 +29,7 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 #### ☁️ Cloud, AI & Integrations
 | Google Gemini AI | Stripe Payments | Cloudinary CDN | OAuth 2.0 | Neon Tech | Somee Hosting |
 |------------------|-----------------|----------------|-----------|-----------|---------------|
-| <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cloudinary-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/74181643?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> |
+| <img src="https://raw.githubusercontent.com/google-gemini/cookbook/main/images/gemini-logo.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cloudinary-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/74181643?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> |
 
 ---
 
@@ -44,15 +44,15 @@ I focus on bridging the gap between theory and practice, with an emphasis on **s
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/simaon78i/MoodCast">
-    <img src="https://img.shields.io/badge/MoodCast-AI_Movie_PWA-orange?style=for-the-badge&logo=google-gemini&logoColor=white" alt="MoodCast"/>
-  </a>
-  <a href="https://github.com/simaon78i/PEPSE-virtual-reality">
-    <img src="https://img.shields.io/badge/PEPSE--virtual--reality-2D_Game_Engine-blueviolet?style=for-the-badge&logo=unity&logoColor=white" alt="PEPSE 2D"/>
-  </a>
-  <a href="https://github.com/simaon78i/Markov-chain">
-    <img src="https://img.shields.io/badge/Markov--Chain-NLP_in_C-blue?style=for-the-badge&logo=c&logoColor=white" alt="Markov Chain"/>
-  </a>
+  <a href="https://github.com/simaon78i/MoodCast">
+    <img src="https://img.shields.io/badge/MoodCast-AI_Movie_PWA-orange?style=for-the-badge&logo=google-gemini&logoColor=white" alt="MoodCast"/>
+  </a>
+  <a href="https://github.com/simaon78i/PEPSE-virtual-reality">
+    <img src="https://img.shields.io/badge/PEPSE--virtual--reality-2D_Game_Engine-blueviolet?style=for-the-badge&logo=unity&logoColor=white" alt="PEPSE 2D"/>
+  </a>
+  <a href="https://github.com/simaon78i/Markov-chain">
+    <img src="https://img.shields.io/badge/Markov--Chain-NLP_in_C-blue?style=for-the-badge&logo=c&logoColor=white" alt="Markov Chain"/>
+  </a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -92,11 +92,11 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ## 🤝 Get in Touch
 
 - 📧 **Email:** <a href="mailto:simaon78ifrac@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shimon-ifrach-a022b5215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
