@@ -1,15 +1,22 @@
 # 👋 Hello there!
 
-Welcome to my GitHub profile. I'm **Shimon Ifrach**, a passionate Computer Science student and **FullStack Developer**.  
+Welcome to my GitHub profile. I'm **Shimon Ifrach**, a passionate Computer Science student and **E2E Software Engineer**.  
 Here, I combine my love for software and hardware, exploring complex problems and creating innovative solutions.
 
 ---
 
 ## 🧠 About Me
 
-I'm currently pursuing a degree in Computer Science at the Hebrew University, with a deep passion for programming and a strong commitment to becoming a software engineer or software architect.  
-I focus on bridging the gap between theory and practice, with an emphasis on **software architecture**, clean code design, and production-ready applications.
+I am a **Computer Science & Physics** dual-major student at **The Hebrew University of Jerusalem**, driven by a deep passion for building robust, end-to-end systems. 
 
+My work focuses on bridging the gap between complex mathematical theory and production-ready applications. I am particularly fascinated by the **"Physics of Deep Learning"**—applying physical intuition to understand neural network dynamics and optimization landscapes.
+
+### What I Do:
+* **End-to-End Development:** I enjoy architecting systems from the ground up, from the underlying math to the final deployment.
+* **Deep Learning Research:** Exploring probabilistic models and non-deterministic systems in the continuous case.
+* **Software Craftsmanship:** Focused on clean code, scalable software architecture, and high-performance design.
+
+*"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
 ---
 
 ---
