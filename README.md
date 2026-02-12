@@ -13,7 +13,7 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 
 ### What I Do:
 * **End-to-End Development:** I enjoy architecting systems from the ground up, from the underlying math to the final deployment.
-* **Deep Learning Research:** Exploring probabilistic models and non-deterministic systems in the continuous case.
+* **Machine Learning:** Exploring probabilistic models and non-deterministic systems in the continuous case.
 * **Software Craftsmanship:** Focused on clean code, scalable software architecture, and high-performance design.
 
 *"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
