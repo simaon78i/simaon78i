@@ -13,8 +13,10 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 
 ### What I Do:
 * **End-to-End Development:** I enjoy architecting systems from the ground up, from the underlying math to the final deployment.
+* **Containerization & DevOps:** Expertly packaging applications using **Docker** to ensure consistency across development, testing, and production environments.
 * **Machine Learning:** Exploring probabilistic models and non-deterministic systems in the continuous case.
 * **Software Craftsmanship:** Focused on clean code, scalable software architecture, and high-performance design.
+* **CS Educator:** I instruct courses in **Java, Data Structures, and Automata**, focusing on modular code design and algorithmic efficiency.
 
 *"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
 ---
@@ -26,9 +28,10 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 As an aspiring **Software Architect**, I believe that great software is built on solid foundations. I apply these principles in my projects:
 
 - **Clean Code & SOLID:** Writing readable, maintainable, and testable code.
+- **Microservices & Containers:** Leveraging **Docker** for isolated, scalable, and portable service architecture.
 - **Design Patterns:** Implementing proven solutions like Singleton, Factory, and Observer where appropriate.
 - **System Design:** Focusing on scalability, efficient database schema design (PostgreSQL), and secure API integrations.
-- **Interdisciplinary Approach:** Leveraging mathematical models (like Markov Chains) to solve complex software engineering challenges.
+- **Low-Level Mastery:** Understanding computer architecture from the ground up, from NAND gates to complex CPU registers (**Nand2Tetris**).
 
 ---
 
@@ -36,10 +39,10 @@ As an aspiring **Software Architect**, I believe that great software is built on
 
 ### 👨‍💻 Programming Languages & Frameworks
 
-#### 🖥️ Backend & Databases
-| Python | C | C++ | Java | C# / ASP.NET | PostgreSQL | MATLAB |
-|--------|---|-----|------|--------------|------------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |
+#### 🖥️ Backend, Infrastructure & DevOps
+| Python | C | C++ | Java | C# / ASP.NET | PostgreSQL | Docker | Render |
+|--------|---|-----|------|--------------|------------|--------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/> |
 
 #### 🎨 Frontend, Mobile & PWA
 | HTML5 | CSS3 / Grid | JavaScript | TypeScript | React | Dart | Flutter | PWA / TWA |
@@ -55,9 +58,9 @@ As an aspiring **Software Architect**, I believe that great software is built on
 
 ## ⚙️ Tools
 
-| Git | Linux | VS Code | Visual Studio | PyCharm | Android Studio | PWABuilder |
-|-----|-------|---------|----------------|---------|----------------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/> | <img src="https://www.pwabuilder.com/assets/icons/icon_192.png" width="40"/> |
+| Git | Linux | Docker Desktop | VS Code | Visual Studio | PyCharm | Android Studio |
+|-----|-------|---------|---------|----------------|---------|----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/> |
 
 ---
 
@@ -66,6 +69,9 @@ As an aspiring **Software Architect**, I believe that great software is built on
 <p align="center">
   <a href="https://github.com/simaon78i/MoodCast">
     <img src="https://img.shields.io/badge/MoodCast-AI_Movie_PWA-orange?style=for-the-badge&logo=google-gemini&logoColor=white" alt="MoodCast"/>
+  </a>
+  <a href="https://github.com/simaon78i/Nand2Tetris">
+    <img src="https://img.shields.io/badge/Nand2Tetris-Hardware_Logic-red?style=for-the-badge&logo=cpu-z&logoColor=white" alt="Nand2Tetris"/>
   </a>
   <a href="https://github.com/simaon78i/PEPSE-virtual-reality">
     <img src="https://img.shields.io/badge/PEPSE--virtual--reality-2D_Game_Engine-blueviolet?style=for-the-badge&logo=unity&logoColor=white" alt="PEPSE 2D"/>
