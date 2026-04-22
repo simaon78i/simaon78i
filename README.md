@@ -13,9 +13,8 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 
 ### What I Do:
 * **End-to-End Development:** I enjoy architecting systems from the ground up, from the underlying math to the final deployment.
-* **Containerization & DevOps:** Expertly packaging applications using **Docker** to ensure consistency across development, testing, and production environments.
-* **Machine Learning:** Exploring probabilistic models and non-deterministic systems in the continuous case.
-* **Software Craftsmanship:** Focused on clean code, scalable software architecture, and high-performance design.
+* **Containerization & DevOps:** Packaging applications using **Docker** to ensure consistency across development and production environments.
+* **Hardware & Logic Design:** Building computer systems from scratch using **HDL**, covering everything from logic gates to ALU and CPU architecture.
 * **CS Educator:** I instruct courses in **Java, Data Structures, and Automata**, focusing on modular code design and algorithmic efficiency.
 
 *"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
@@ -28,10 +27,10 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 As an aspiring **Software Architect**, I believe that great software is built on solid foundations. I apply these principles in my projects:
 
 - **Clean Code & SOLID:** Writing readable, maintainable, and testable code.
+- **Hardware-Software Integration:** Deep understanding of how high-level code maps to low-level hardware through **HDL** and logic design.
 - **Microservices & Containers:** Leveraging **Docker** for isolated, scalable, and portable service architecture.
-- **Design Patterns:** Implementing proven solutions like Singleton, Factory, and Observer where appropriate.
 - **System Design:** Focusing on scalability, efficient database schema design (PostgreSQL), and secure API integrations.
-- **Low-Level Mastery:** Understanding computer architecture from the ground up, from NAND gates to complex CPU registers (**Nand2Tetris**).
+- **Low-Level Mastery:** Building computer architecture from the ground up, from NAND gates to complex registers (**Nand2Tetris**).
 
 ---
 
@@ -39,10 +38,10 @@ As an aspiring **Software Architect**, I believe that great software is built on
 
 ### 👨‍💻 Programming Languages & Frameworks
 
-#### 🖥️ Backend, Infrastructure & DevOps
-| Python | C | C++ | Java | C# / ASP.NET | PostgreSQL | Docker | Render |
-|--------|---|-----|------|--------------|------------|--------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/> |
+#### 🖥️ Backend, Infrastructure & Hardware
+| Python | C | C++ | Java | C# / ASP.NET | HDL | Docker | Render |
+|--------|---|-----|------|--------------|-----|--------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/chip.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/> |
 
 #### 🎨 Frontend, Mobile & PWA
 | HTML5 | CSS3 / Grid | JavaScript | TypeScript | React | Dart | Flutter | PWA / TWA |
@@ -58,9 +57,9 @@ As an aspiring **Software Architect**, I believe that great software is built on
 
 ## ⚙️ Tools
 
-| Git | Linux | Docker Desktop | VS Code | Visual Studio | PyCharm | Android Studio |
-|-----|-------|---------|---------|----------------|---------|----------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/> |
+| Git | Linux | Hardware Simulators | Docker Desktop | VS Code | Visual Studio | PyCharm |
+|-----|-------|---------------------|----------------|---------|----------------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/circuit.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/> |
 
 ---
 
