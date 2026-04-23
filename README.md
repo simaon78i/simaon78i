@@ -103,11 +103,6 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=radical&hide_border=false)
 </div>
 
-### GitHub Streak Stats
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=simaon78i&theme=radical)](https://git.io/streak-stats)
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
