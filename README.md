@@ -7,7 +7,7 @@ Here, I combine my love for software and hardware, exploring complex problems an
 
 ## 🧠 About Me
 
-I am a **Computer Science & Physics** dual-major student at **The Hebrew University of Jerusalem**, driven by a deep passion for building robust, end-to-end systems. 
+I am a **Computer Science** major student at **The Hebrew University of Jerusalem**, driven by a deep passion for building robust, end-to-end systems. 
 
 My work focuses on bridging the gap between complex mathematical theory and production-ready applications. I am particularly fascinated by the **"Physics of Deep Learning"**—applying physical intuition to understand neural network dynamics and optimization landscapes.
 
