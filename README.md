@@ -100,8 +100,8 @@ I aim to integrate my skills in computer science to contribute to both academic 
 ### 🖥️ Top Languages
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=radical)
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=radical&count_private=true&cache_bust=123)
+
 
 ---
 
