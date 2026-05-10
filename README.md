@@ -92,7 +92,7 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&cache_bust=2024" alt="Overall Activity"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=radical&count_private=true&cache_bust=123" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=radical&count_private=true&cache_bust=5678" alt="Top Languages"/>
 </div>
 
 ---
