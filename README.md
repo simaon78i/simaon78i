@@ -14,7 +14,7 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 ---
 
 ## 🚀 Featured Projects
-| [ZCode](https://github.com/simaon78i/Zcode) | [MoodCast](https://github.com/simaon78i/MoodCast) | [Nand2Tetris](https://github.com/simaon78i/Nand2Tetris) | [PEPSE](https://github.com/simaon78i/PEPSE-virtual-reality) | [NLP](https://github.com/simaon78i/Markov-chain) |
+| [ZCode](https://github.com/simaon78i/Zcode) | [MoodCast](https://github.com/simaon78i/MoodCast-WebSite) | [Nand2Tetris](https://github.com/simaon78i/Nand2Tetris) | [PEPSE](https://github.com/simaon78i/PEPSE-virtual-reality) | [NLP](https://github.com/simaon78i/Markov-chain) |
 | :---: | :---: | :---: | :---: | :---: |
 | 🎮 AI Gaming | 🎬 AI Movie PWA | 📟 Hardware Logic | 👾 2D Engine | 🤖 Markov NLP |
 
