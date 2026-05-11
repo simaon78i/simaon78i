@@ -31,6 +31,16 @@ My work focuses on bridging the gap between complex mathematical theory and prod
 
 ---
 
+<div align="center">
+  <details>
+    <summary><b>🏆 My Hall of Fame</b></summary>
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=simaon78i&theme=tokyonight&no-bg=true" alt="trophies">
+  </details>
+</div>
+
+---
+
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages & Frameworks
