@@ -7,8 +7,8 @@
 
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
-* 🎓 **Academic:** CS & Physics enthusiast, focusing on the "Physics of Deep Learning".
-* 🛠️ **Expertise:** Architecting systems from logic gates (HDL) to Cloud-Native deployments.
+* 🎓 **Academic:** CS & Physics student, specializing in the "Physics of Deep Learning".
+* 🛠️ **Expertise:** E2E systems from logic gates (HDL) to Cloud-Native deployments.
 * 👨‍🏫 **Educator:** Instructor for Java, Data Structures, and Automata.
 
 ---
@@ -20,16 +20,9 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 
-### 💻 Languages & Backend
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Bun-000?style=flat&logo=bun&logoColor=white" height="25"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Elysia-000?style=flat&logo=elysia&logoColor=white" height="25"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" height="25"/>
-
-### ☁️ Infrastructure, Cloud & DB
-&nbsp; <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="30"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/74181643?s=200&v=4" width="30"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30"/>
-
-### 🎨 Frontend, Mobile & AI
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="30"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/openrouter/white" width="30"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/anthropic/white" width="30"/>
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java,cpp,c,dotnet,dotnet,nodejs,bun,postgres,docker,gcp,firebase,react,ts,threejs,tailwind,flutter,dart,git,linux,vscode,visualstudio,pycharm&perline=12)](https://skillicons.dev)
 
 ---
 
