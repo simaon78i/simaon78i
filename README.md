@@ -10,7 +10,7 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 * 👨‍🏫 **Educator:** Instructor for Java, Data Structures, and Automata.
 ---
 ## 🚀 Featured Projects
-| [ZCode](https://github.com/simaon78i/Zcode) | [MoodCast](https://github.com/simaon78i/MoodCast-WebSite) | [Hack_Computer_From_Scratch]([https://github.com/simaon78i/Nand2Tetris](https://github.com/simaon78i/Hack-Computer-From-Scratch)) | [PEPSE](https://github.com/simaon78i/PEPSE-virtual-reality) | [NLP](https://github.com/simaon78i/Markov-chain) |
+| [ZCode](https://github.com/simaon78i/Zcode) | [MoodCast](https://github.com/simaon78i/MoodCast-WebSite) | [Hack Computer From Scratch](https://github.com/simaon78i/HackComputerFrom-Scratch) | [PEPSE](https://github.com/simaon78i/PEPSE-virtual-reality) | [NLP](https://github.com/simaon78i/Markov-chain) |
 | :---: | :---: | :---: | :---: | :---: |
 | 🎮 AI Gaming | 🎬 AI Movie PWA | 📟 Hardware Logic | 👾 2D Engine | 🤖 Markov NLP |
 ---
