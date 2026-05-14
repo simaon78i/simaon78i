@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Shimon Ifrach
 **Computer Science Student @ Hebrew University | E2E Software Engineer**
 
-
 > *"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
 
 ---
