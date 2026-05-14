@@ -2,22 +2,30 @@
 **Computer Science Student @ Hebrew University | E2E Software Engineer**
 
 > *"I don't just write code; I engineer systems that are as theoretically sound as they are functional."*
+
 ---
+
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
 * 🎓 **Academic:** CS & Physics student, specializing in the "Physics of Deep Learning".
 * 🛠️ **Expertise:** E2E systems from logic gates (HDL) to Cloud-Native deployments.
 * 👨‍🏫 **Educator:** Instructor for Java, Data Structures, and Automata.
+  
 ---
+
 ## 🚀 Featured Projects
 | [ZCode](https://github.com/simaon78i/Zcode) | [MoodCast](https://github.com/simaon78i/MoodCast-WebSite) | [Hack Computer From Scratch](https://github.com/simaon78i/Hack-Computer-From-Scratch) | [PEPSE](https://github.com/simaon78i/PEPSE-virtual-reality) | [NLP](https://github.com/simaon78i/Markov-chain) |
 | :---: | :---: | :---: | :---: | :---: |
 | 🎮 AI Gaming | 🎬 AI Movie PWA | 📟 Hardware Logic | 👾 2D Engine | 🤖 Markov NLP |
+
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cs,dotnet,java,cpp,c,nodejs,bun,postgres,docker,gcp,firebase,react,ts,threejs,tailwind,flutter,dart,git,linux,vscode,visualstudio,pycharm&perline=12)](https://skillicons.dev)
+
 ---
+
 <div align="center">
   <details>
     <summary><b>🏆 Achievements & Hall of Fame</b></summary>
@@ -25,7 +33,9 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
     <img src="https://github-profile-trophy.vercel.app/?username=simaon78i&theme=tokyonight&no-bg=true" alt="trophies">
   </details>
 </div>
+
 ---
+
 ## 📊 Stats & Activity
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=simaon78i&show_icons=true&theme=radical" width="48%"/> 
@@ -35,6 +45,7 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 <p align="center">
   <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" width="60%" alt="Snake animation"/>
 </p>
+
 ---
 
 ## 🤝 Contact
