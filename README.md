@@ -22,7 +22,7 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cs,dotnet,java,cpp,c,nodejs,html,css,bun,postgres,dockervolume,kubernetes,docker,gcp,firebase,react,ts,threejs,tailwind,flutter,dart,git,linux,vscode,visualstudio,pycharm&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cs,dotnet,java,cpp,c,nodejs,html,css,bun,postgres,volume,kubernetes,docker,gcp,firebase,react,ts,threejs,tailwind,flutter,dart,git,linux,vscode,visualstudio,pycharm&perline=14)](https://skillicons.dev)
 
 ---
 
