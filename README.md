@@ -36,7 +36,7 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
   <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" width="60%" alt="Snake animation"/>
 </p>
 ---
+
 ## 🤝 Contact
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:simaon78ifrac@gmail.com) 
-&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:simaon78ifrac@gmail.com) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shimon-ifrach-a022b5215/)
