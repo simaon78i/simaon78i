@@ -10,7 +10,6 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 * 🎓 **Academic:** CS & Physics student, specializing in the "Physics of Deep Learning".
 * 🛠️ **Expertise:** E2E systems from logic gates (HDL) to Cloud-Native deployments.
 * 👨‍🏫 **Educator:** Instructor for Java, Data Structures, and Automata.
-
 ---
 
 ## 🚀 Featured Projects
