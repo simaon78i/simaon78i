@@ -8,7 +8,6 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
-# הגדרת הרשאות כתיבה ישירות בקוד כדי למנוע חסימות
 permissions:
   contents: write
 
@@ -21,9 +20,19 @@ jobs:
 
       - name: Update Cache Buster Timestamp
         run: |
-          TIMESTAMP=$(date +%s)
-          # בדיקה אם התגיות קיימות ומחליפות את ה-Timestamp
-          sed -i "//,// { s/&v=[^\"' ]*/\&v=$TIMESTAMP/g }" README.md
+          python -c "
+          import time, re
+          
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # חיפוש כל הקישורים שמכילים את הפרמטר v= ומחליף את הערך שלו ב-Timestamp הנוכחי
+          timestamp = str(int(time.time()))
+          updated_content = re.sub(r'(&v=[a-zA-Z0-9_-]*)', f'&v={timestamp}', content)
+          
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated_content)
+          "
 
       - name: Commit and Push Changes
         run: |
@@ -31,7 +40,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           
-          # מונע קריסה (exit code 1) אם הקובץ לא השתנה
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
