@@ -5,9 +5,11 @@
 
 ---
 
-## example
-
-![Most Used Languages](https://metrics.lecoq.io/simaon78i?template=classic&base=languages&languages.limit=10&languages.ignored=html,css)
+## 📊 Stats & Activity
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=refresh_now" width="48%"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&count_private=true&langs_count=10&v=refresh_now" width="45%"/>
+</div>
 
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
