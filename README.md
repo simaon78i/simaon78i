@@ -5,6 +5,9 @@
 
 ---
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&v=100
+
+
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
 * 🎓 **Academic:** CS & Physics student, specializing in the "Physics of Deep Learning".
