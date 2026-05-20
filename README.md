@@ -5,9 +5,6 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&v=100
-
-
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
 * 🎓 **Academic:** CS & Physics student, specializing in the "Physics of Deep Learning".
@@ -51,6 +48,18 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 </p>
 
 ---
+
+
+## 📊 Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=2026" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&count_private=true&langs_count=10&v=2026" width="45%"/>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simaon78i/simaon78i/output/github-contribution-grid-snake.svg" width="60%" alt="Snake animation"/>
+</p>
+
 
 ## 🤝 Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:simaon78ifrac@gmail.com) &nbsp;&nbsp;
