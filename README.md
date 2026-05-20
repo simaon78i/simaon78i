@@ -7,7 +7,7 @@
 
 ## example
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simaon78i&theme=tokyonight)
+![Most Used Languages](https://metrics.lecoq.io/simaon78i?template=classic&base=languages&languages.limit=10&languages.ignored=html,css)
 
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
