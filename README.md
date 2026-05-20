@@ -7,7 +7,7 @@
 
 ## example
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=simaon78i&layout=compact&langs_count=10&v=2026_refresh_final)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simaon78i&layout=compact&langs_count=10&theme=tokyonight)
 
 ## 🧠 Profile
 I bridge the gap between **Mathematical Theory** and **Production-Ready Applications**.
