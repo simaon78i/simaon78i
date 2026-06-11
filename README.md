@@ -40,8 +40,8 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 
 ## 📊 Stats & Activity
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=1781148728" width="48%"/> 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&count_private=true&langs_count=10&v=1781148728" width="45%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=1781163702" width="48%"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simaon78i&layout=compact&theme=radical&count_private=true&langs_count=10&v=1781163702" width="45%"/>
 </div>
 
 <p align="center">
