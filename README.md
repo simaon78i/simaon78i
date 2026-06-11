@@ -32,15 +32,6 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
     <summary><b>🏆 Achievements & Hall of Fame</b></summary>
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simaon78i&theme=tokyonight" alt="Summary Card" />
-  </details>
-</div>
-
-
----
-
-<div align="center">
-  <details>
-    <summary><b>🏆 Achievements & Hall of Fame</b></summary>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=simaon78i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </details>
