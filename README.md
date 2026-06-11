@@ -31,9 +31,10 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
   <details>
     <summary><b>🏆 Achievements & Hall of Fame</b></summary>
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=simaon78i&theme=tokyonight&no-bg=true" alt="trophies">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simaon78i&theme=tokyonight" alt="Summary Card" />
   </details>
 </div>
+
 
 ---
 
