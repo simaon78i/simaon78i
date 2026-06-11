@@ -38,6 +38,16 @@ I bridge the gap between **Mathematical Theory** and **Production-Ready Applicat
 
 ---
 
+<div align="center">
+  <details>
+    <summary><b>🏆 Achievements & Hall of Fame</b></summary>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simaon78i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </details>
+</div>
+
+---
+
 ## 📊 Stats & Activity
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=simaon78i&show_icons=true&theme=radical&v=1781163702" width="48%"/> 
